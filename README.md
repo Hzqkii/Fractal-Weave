@@ -1,5 +1,5 @@
 # Fractal Client
-## NOT MADE BY ME, NOT MAINTAINTED, JUST AN ARCHIVE OF A PROJECT
+## NOT MADE BY ME, NOT MAINTAINTED, JUST AN ARCHIVE OF A PROJECT, MADE BY AriaJackie WHOSE ACCOUNT HAS SINCE BEEN DELETED
 ---
 
 A weave mod built for Lunar Client, allowing the `public` to finally get their hands on open source, community developed Lunar cheats.
