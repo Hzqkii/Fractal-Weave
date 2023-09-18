@@ -1,0 +1,8 @@
+{
+  "mixinConfigs": [
+    "fractal.mixins.json"
+  ],
+  "entrypoints": [
+    "xyz.flapjack.fractal.Fractal"
+  ]
+}

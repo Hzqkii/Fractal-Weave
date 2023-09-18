@@ -1,0 +1,211 @@
+Aim Assist:state:false
+Aim Assist:keybind:0
+Aim Assist:keychar:None
+Aim Assist:Mode:Exponential
+Aim Assist:Speed:6
+Aim Assist:Distance:10
+Aim Assist:FOV:100
+Aim Assist:Aim on player:true
+Aim Assist:Multipoint:true
+Aim Assist:Only while clicking:true
+Aim Assist:Only on mouse move:false
+Aim Assist:Sensitivity:2
+Aim Assist:Weapon only:false
+Aim Assist:Break blocks:true
+Aim Assist:Target invisibles:true
+Aim Assist:Lock target:true
+Auto Clicker:state:false
+Auto Clicker:keybind:0
+Auto Clicker:keychar:None
+Auto Clicker:CPS:15
+Auto Clicker:Random range:5
+Auto Clicker:Drop chance:5
+Auto Clicker:Jitter:10
+Auto Clicker:Break blocks:true
+Auto Clicker:Break blocks delay:15
+Auto Clicker:Weapon only:false
+Auto Clicker:Hit select:false
+Auto Clicker:Click sound:false
+Auto Clicker:Delay:100
+Blockhit:state:false
+Blockhit:keybind:0
+Blockhit:keychar:None
+Blockhit:Hold length:3
+Blockhit:Frequency:2
+Blockhit:Smart:true
+Double Clicker:state:false
+Double Clicker:keybind:0
+Double Clicker:keychar:None
+Double Clicker:Left click:true
+Double Clicker:Right click:true
+Double Clicker:Chance:75
+Reach:state:false
+Reach:keybind:0
+Reach:keychar:None
+Reach:Min distance:3.0
+Reach:Max distance:3.0
+Reach:Chance:50
+Reach:Condition:Global
+Reach:Hitbox:false
+Reach:Expand amount:0
+Velocity:state:false
+Velocity:keybind:0
+Velocity:keychar:None
+Velocity:Mode:Normal
+Velocity:Chance:100
+Velocity:Horizontal:100
+Velocity:Vertical:100
+Velocity:Tick delay:2
+Velocity:Target required:true
+Velocity:Movement required:false
+Velocity:Disable on S:false
+WTap:state:false
+WTap:keybind:0
+WTap:keychar:None
+WTap:Type:WTap
+WTap:Hold length:3
+WTap:Frequency:2
+Sprint:state:false
+Sprint:keybind:0
+Sprint:keychar:None
+Sprint:Keep:false
+Strafe:state:false
+Strafe:keybind:0
+Strafe:keychar:None
+Strafe:Chance:25
+Strafe:Only on attack:true
+Strafe:Range:2.5
+Strafe:Length:10
+Auto Heal:state:false
+Auto Heal:keybind:0
+Auto Heal:keychar:None
+Auto Heal:Delay:10
+Auto Heal:Cooldown:50
+Auto Heal:Health threshold:8
+Auto Heal:Soup:true
+Auto Heal:Drop bowls:true
+Auto Heal:Only in inventory:true
+Auto Place:state:false
+Auto Place:keybind:0
+Auto Place:keychar:None
+Auto Place:Faces:All
+Auto Place:Delay:40
+Bridge Assist:state:false
+Bridge Assist:keybind:0
+Bridge Assist:keychar:None
+Bridge Assist:Only on blocks:true
+Bridge Assist:Only on shift:true
+Bridge Assist:Shift during jumps:true
+Bridge Assist:Only on pitch:true
+Bridge Assist:Pitch angle:45
+Bridge Assist:Shift length:50
+Click Tweaks:state:false
+Click Tweaks:keybind:0
+Click Tweaks:keychar:None
+Click Tweaks:Fastplace:false
+Click Tweaks:Right delay:1
+Click Tweaks:Only on blocks:true
+Click Tweaks:Click delay:true
+Click Tweaks:Left delay:0
+Hotkey:state:false
+Hotkey:keybind:0
+Hotkey:keychar:None
+Hotkey:Delay:60
+Hotkey:Potions:false
+Hotkey:Random potion:false
+Hotkey:Smart splash:false
+Hotkey:keybind:Potion:0
+Hotkey:keychar:Potion:
+Hotkey:Soups:false
+Hotkey:Random soup:false
+Hotkey:Smart drink:false
+Hotkey:keybind:Soup:0
+Hotkey:keychar:Soup:
+Hotkey:Rods:false
+Hotkey:Random rod:false
+Hotkey:keybind:Rod:0
+Hotkey:keychar:Rod:
+Hotkey:Blocks:false
+Hotkey:keybind:Block:0
+Hotkey:keychar:Block:
+MLG:state:false
+MLG:keybind:0
+MLG:keychar:None
+MLG:Height:10
+MLG:Delay:10
+MLG:Only on pitch:true
+MLG:Pitch angle:45
+Refill:state:false
+Refill:keybind:0
+Refill:keychar:None
+Refill:Potions:true
+Refill:Soups:true
+Refill:Delay:45
+Right Clicker:state:false
+Right Clicker:keybind:0
+Right Clicker:keychar:None
+Right Clicker:CPS:15
+Right Clicker:Jitter:10
+Right Clicker:Right click delay:250
+Right Clicker:Projectiles:true
+Right Clicker:Blocks:true
+Right Clicker:Rods:false
+Click GUI:state:false
+Click GUI:keybind:210
+Click GUI:keychar:
+Click GUI:Move while open:true
+Click GUI:Mouse parallax:false
+Click GUI:Border radius:5
+Click GUI:Tooltips:true
+Click GUI:Obscuration effect:true
+Click GUI:Obscuration strength:100
+Click GUI:Tint effect:true
+Click GUI:Tint strength:10
+Click GUI:Blur effect:true
+Click GUI:Click GUI watermark:Nice visuals? :o
+Click GUI:Click GUI image:false
+Click GUI:Image:Neko
+Click GUI:Red:5
+Click GUI:Green:152
+Click GUI:Blue:98
+Click GUI:Rainbow:false
+Click GUI:Rainbow delay:5
+Anti Debuff:state:false
+Anti Debuff:keybind:0
+Anti Debuff:keychar:None
+Anti Debuff:Effect:Everything
+Arraylist:state:false
+Arraylist:keybind:0
+Arraylist:keychar:None
+Arraylist:Padding:true
+Arraylist:Amount:5
+Arraylist:Sidebar:true
+Chams:state:false
+Chams:keybind:0
+Chams:keychar:None
+Chams:Mode:Material
+Chams:Red:255
+Chams:Green:255
+Chams:Blue:255
+Chams:Alpha:255
+Chams:Shader type:Swirl
+Player ESP:state:false
+Player ESP:keybind:0
+Player ESP:keychar:None
+Player ESP:Mode:2D
+Player ESP:Box:true
+Player ESP:Name:true
+Player ESP:Health:true
+Player ESP:Invisibles:true
+Player ESP:Hide Bots:true
+Player ESP:Expand:20
+Player ESP:Red:245
+Player ESP:Green:245
+Player ESP:Blue:245
+Health:state:false
+Health:keybind:0
+Health:keychar:None
+Antibot:state:false
+Antibot:keybind:0
+Antibot:keychar:None
+Antibot:Mode:Hypixel

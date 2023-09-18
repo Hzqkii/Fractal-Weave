@@ -1,0 +1,12 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "xyz.flapjack.fractal.events.mixin",
+  "mixins": [
+    "MixinRenderLivingEntity",
+    "MixinNetworkManager",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiInGame",
+    "MixinMinecraft"
+  ]
+}
